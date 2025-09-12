@@ -9,7 +9,7 @@ requests            # Requisições HTTP
 coverage            # Medição de cobertura de testes
 pytest              # Framework de testes
 pytest-cov          # Relatórios de cobertura integrados ao pytest
-unittest            # Framework de testes padrão do Python (incluso na stdlib, mas pode ser referenciado)
+
 
 # === Utilitários (se usados diretamente) ===
 pluggy              # Sistema de plugins usado pelo pytest            # Sistema de plugins (usado pelo pytest)
