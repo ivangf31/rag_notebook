@@ -7,10 +7,10 @@ numero_tema_repetitivo: nenhum encontrado para a tese de solidariedade (busca em
 autoridade_dos_julgados: D (orientativo; acórdãos de Turma), conforme índice do Precedentes
 status: vigente, sem mudança de entendimento detectada (ver "Limites da conferência")
 conferido_em: 2026-10-12
-conferencia: verificar_citacoes (Precedentes). 12 de 13 conferem; 1 não encontrada (REsp 2.093.520/DF)
+conferencia: verificar_citacoes e decisao (Precedentes). 9 de 9 julgados e 4 de 4 súmulas conferem. O REsp 2.093.520/DF consta no índice com a classe "EREsp" (ver ficha 2)
 julgados:
   - {classe: AREsp, numero: 2565736, uf: SP, orgao: T4, relator: Raul Araújo, julgamento: 2026-03-02, publicacao: 2026-03-11, verificado: sim}
-  - {classe: REsp, numero: 2093520, uf: DF, orgao: T3, relator: Marco Aurélio Bellizze, julgamento: 2024-05-14, publicacao: 2024-05-17, verificado: NÃO ENCONTRADO NO ÍNDICE}
+  - {classe: REsp, numero: 2093520, uf: DF, orgao: T3, relator: Marco Aurélio Bellizze, julgamento: 2024-05-14, publicacao: 2024-05-17, verificado: sim (no índice como "EREsp 2.093.520/DF", DJe 2024-05-17), embargos de declaração rejeitados em 2024-08-15}
   - {classe: REsp, numero: 2057908, uf: SC, orgao: T3, relator: Nancy Andrighi, julgamento: 2024-04-02, publicacao: 2024-04-10, verificado: sim}
   - {classe: REsp, numero: 1736786, uf: SP, orgao: T4, relator: Antonio Carlos Ferreira, julgamento: 2023-04-27, publicacao: 2023-05-04, verificado: sim}
   - {classe: AgInt no AREsp, numero: 2018413, uf: PR, orgao: T3, relator: Marco Aurélio Bellizze, julgamento: 2022-05-23, publicacao: 2022-05-25, verificado: sim}
@@ -31,7 +31,7 @@ Pelos arts. 102 e 104 da LDA, quem **adquire, distribui, vende, expõe à venda 
 | Subtema | Julgados |
 |---|---|
 | Solidariedade pelo proveito econômico (regra) | AREsp 2.565.736; REsp 1.785.771; REsp 1.716.465; REsp 1.736.786; AgInt no AREsp 2.018.413 |
-| Limite da solidariedade (partido e candidato, atos de adeptos) | REsp 2.093.520 (não encontrado no índice) |
+| Limite da solidariedade (partido e candidato, atos de adeptos) | REsp 2.093.520 |
 | Plataforma de comércio eletrônico | REsp 2.057.908 |
 | Prescrição: termo inicial (actio nata) | REsp 1.785.771 |
 | Prescrição: prazo, transição e interrupção | REsp 1.736.786 |
@@ -76,16 +76,18 @@ DIREITO CIVIL. RECURSOS ESPECIAIS. RESPONSABILIDADE SOLIDÁRIA POR VIOLAÇÃO DE
 
 ---
 
-## 2. REsp 2.093.520/DF (2023/0238201-5)  ATENÇÃO: não confirmado no índice
+## 2. REsp 2.093.520/DF (2023/0238201-5)
 
-> **Alerta de conferência:** a ferramenta de verificação **não encontrou** "REsp 2.093.520" no índice do STJ. Existe no índice o **EDcl nos EREsp 2.093.520/DF** (Min. Marco Aurélio Bellizze, DJe 15/08/2024, registro 202302382015, mesmo número de registro do REsp colado). Isso sugere que o REsp existe, mas o acórdão do REsp em si não pôde ser conferido. O texto abaixo é **o que o usuário colou da pesquisa pronta do STJ**. Conferir no site do STJ antes de citar em prova ou peça.
+> **Conferência (atualizada em 12/10/2026):** confirmado. O acórdão consta no índice do Precedentes com a classe **"EREsp 2.093.520/DF"** (Terceira Turma, Min. Marco Aurélio Bellizze, publicado em 17/05/2024, resultado "Concedido", unânime). A classe parece **erro de classificação do índice**: a ementa é idêntica à da pesquisa pronta do STJ ("RECURSO ESPECIAL ... CONHECIDO E PROVIDO"), o registro é o mesmo (202302382015) e a íntegra está assinada em "Brasília, 14 de maio de 2024". Por isso a primeira verificação, que buscava "REsp", não o achou. A pesquisa pronta do STJ lista, além disso, o "EDcl no REsp 2093520 DF", decisão de 12/08/2024, DJe 15/08/2024. **Ao citar, use a classe do STJ (REsp 2.093.520/DF) e o link oficial abaixo.** O índice não traz a data de julgamento; os 14/05/2024 vêm da pesquisa pronta do STJ e da assinatura da íntegra.
 
-- **Órgão e relator:** Terceira Turma, Min. Marco Aurélio Bellizze
+- **Órgão e relator:** Terceira Turma, Min. Marco Aurélio Bellizze (autoridade: D, orientativo)
 - **Julgamento:** 14/05/2024, unânime. **Publicação:** RSTJ vol. 274, p. 622; DJe 17/05/2024
 - **Resultado:** recurso especial conhecido e provido
+- **Link oficial:** https://processo.stj.jus.br/processo/julgamento/eletronico/documento/?documento_tipo=integra&documento_sequencial=245808971&registro_numero=202302382015&publicacao_data=20240517&O=JT
 - **Referência legislativa:** Súmula 284/STF; LDA arts. 7, 24 (IV), 102, 103, 104; CF art. 5º, XXVII e XXVIII; Código Eleitoral art. 241.
+- **Histórico posterior:** embargos de declaração rejeitados por unanimidade (sessão virtual de 06/08 a 12/08/2024; DJe 15/08/2024), por ausência de vício e pretensão de rejulgamento; também por ser incabível o uso de embargos para prequestionar matéria constitucional. Link: https://processo.stj.jus.br/processo/julgamento/eletronico/documento/?documento_tipo=integra&documento_sequencial=264533823&registro_numero=202302382015&publicacao_data=20240815&O=JT (no índice: "EDcl nos EREsp 2.093.520/DF").
 
-**Ementa (texto fornecido pelo usuário)**
+**Ementa (conferida com o texto do índice)**
 
 RECURSO ESPECIAL. DIREITO AUTORAL. PRELIMINAR DE INÉPCIA DO RECURSO. REJEIÇÃO. LEGITIMIDADE PASSIVA VERIFICADA. TEORIA DA ASSERÇÃO. USO DE OBRA MUSICAL E IMAGEM EM CAMPANHA ELEITORAL. JINGLE. NECESSIDADE DE AUTORIZAÇÃO. VIOLAÇÃO AOS DIREITOS DO AUTOR. RESPONSABILIDADE SOLIDÁRIA DO PARTIDO E DO CANDIDATO POR ATOS DE SEUS ADEPTOS. IMPOSSIBILIDADE. RECURSO ESPECIAL CONHECIDO E PROVIDO.
 1. O propósito recursal consiste em definir se: i) há legitimidade passiva; ii) deve ser reconhecida a responsabilidade solidária do partido político e do candidato por violação a direitos autorais e de imagem perpetrada por terceiros (adeptos); iii) a sentença foi ultra petita; e iv) é necessária a redução do quantum indenizatório.
@@ -398,6 +400,35 @@ RECURSO ESPECIAL. PROPRIEDADE INTELECTUAL. DIREITO AUTORAL. DANOS MORAIS E MATER
 
 ---
 
+## Registro correlato (processual, fora da tese de mérito)
+
+### EDcl no AgInt no AREsp 2.407.679/CE (2023/0229961-9)
+
+Não trata de direito autoral nem de solidariedade. Entra aqui só como **referência cruzada** para o ponto processual dos embargos de declaração, que também aparece no histórico do REsp 2.093.520 (embargos rejeitados; incabíveis para prequestionar matéria constitucional).
+
+- **Órgão e relator:** Terceira Turma, Min. Marco Aurélio Bellizze (autoridade: D)
+- **Julgamento:** 29/04/2024 (sessão virtual de 23 a 29/04/2024), unânime. **Publicação:** DJe 02/05/2024
+- **Resultado:** embargos de declaração rejeitados
+- **Link oficial:** https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202302299619&dt_publicacao=02/05/2024
+- **Conferência:** existe no índice; relator e datas conferem.
+
+**Ementa**
+
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DOCUMENTO QUE JÁ ENCONTRAVA NOS AUTOS. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO NO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. ANÁLISE DE OFENSA A MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. "É vedado à parte recorrente, em sede de embargos de declaração e agravo regimental, suscitar matéria que não foi suscitada anteriormente, em virtude da ocorrência da preclusão consumativa" (AgRg no RE nos EDcl no AgRg no AREsp n. 744.187/DF, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 21/11/2018, DJe de 28/11/2018).
+2. Nos termos do art. 1.022, I, II e III, do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade ou contradição, ou ainda a corrigir erro material, não se caracterizando via própria ao rejulgamento da causa.
+3. Com efeito, "não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal" (AgInt nos EREsp 1.544.786/RS, Rel. Ministro Gurgel de Faria, Primeira Seção, DJe de 16/6/2020).
+4. Embargos de declaração rejeitados.
+
+**Jurisprudência citada:** AgRg no RE nos EDcl no AgRg no AREsp 744.187/DF; EDcl no AgInt no REsp 2.022.551/PR; EDcl no REsp 1.974.218/AL; EDcl no AgInt no REsp 1.792.810/SP.
+
+**Pontos para prova**
+- Embargos de declaração e agravo regimental não servem para suscitar matéria nova (preclusão consumativa).
+- Embargos não são via para rejulgar a causa (art. 1.022 do CPC).
+- O STJ não examina violação a dispositivo constitucional, nem para prequestionamento (competência do STF).
+
+---
+
 ## Linha do tempo (para estudo)
 
 | Ano | Julgado | Contribuição |
@@ -409,12 +440,12 @@ RECURSO ESPECIAL. PROPRIEDADE INTELECTUAL. DIREITO AUTORAL. DANOS MORAIS E MATER
 | 2022 | AgInt no AREsp 2.018.413/PR | Súmula 7 e 284; reafirma o REsp 1.785.771 |
 | 2023 | REsp 1.736.786/SP | Contratante responde; prescrição trienal e interrupção solidária |
 | 2024 | REsp 2.057.908/SC | Plataforma de e-commerce; notificação basta |
-| 2024 | REsp 2.093.520/DF (não confirmado) | Limite: partido e candidato por atos de adeptos |
+| 2024 | REsp 2.093.520/DF | Limite: partido e candidato por atos de adeptos (embargos rejeitados em 08/2024) |
 | 2026 | AREsp 2.565.736/SP | Solidariedade em grupo de rede social pelo proveito direto ou indireto |
 
 ## Limites da conferência
 
 - **Autoridade:** todos os acórdãos conferidos são de **Turma (nível D, orientativo)**. Não foi encontrado **tema repetitivo nem súmula** sobre a solidariedade do art. 104 da LDA. Súmulas e temas de direito autoral encontrados tratam de outros assuntos (por exemplo, Súmulas 63, 228, 261 e 574 e Temas 926 e 1066).
 - **Divergência e mudança de entendimento:** a busca por mudanças de entendimento não apontou virada específica para o assunto, e a busca por decisões contrárias **não retornou resultados** (cobertura fraca na consulta e busca por sentido sem resposta). Isso **não prova** a inexistência de divergência; confirme no site do STJ.
-- **REsp 2.093.520/DF** não foi confirmado no índice (ver alerta na ficha 2).
+- **REsp 2.093.520/DF** está no índice com a classe "EREsp" (provável erro de classificação); ver ficha 2. A data de julgamento não consta no índice.
 - Os campos "Distinguishing", "Prova objetiva" e "Prova subjetiva" são **análise de estudo** feita a partir das ementas, não texto oficial nem indicação do que a banca cobra.
